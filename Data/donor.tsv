@@ -1,0 +1,94 @@
+icgc_donor_id	project_code	study_donor_involved_in	submitted_donor_id	donor_sex	donor_vital_status	disease_status_last_followup	donor_relapse_type	donor_age_at_diagnosis	donor_age_at_enrollment	donor_age_at_last_followup	donor_relapse_interval	donor_diagnosis_icd10	donor_tumour_staging_system_at_diagnosis	donor_tumour_stage_at_diagnosis	donor_tumour_stage_at_diagnosis_supplemental	donor_survival_time	donor_interval_of_last_followup	prior_malignancy	cancer_type_prior_malignancy	cancer_history_first_degree_relative
+DO46597	OV-AU	PCAWG	AOCS-168	female	deceased	relapse		60	60	61	21	C56	FIGO	III		393	393	unknown		unknown
+DO46591	OV-AU	PCAWG	AOCS-166	female	deceased	relapse		58	58	59	37	C56	FIGO	III		195	195	unknown		unknown
+DO46593	OV-AU	PCAWG	AOCS-167	female	deceased	relapse		49	51	51	386	C56	FIGO	IV		937	937	unknown		unknown
+DO46588	OV-AU	PCAWG	AOCS-165	female	deceased	relapse		74	74	75	94	C56	FIGO	III		438	438	unknown		unknown
+DO46586	OV-AU	PCAWG	AOCS-164	female	deceased	relapse		55	55	57	114	C56	FIGO	III		1019	1019	unknown		unknown
+DO46581	OV-AU	PCAWG	AOCS-163	female	deceased	relapse		66	66	66	118	C56	FIGO	III		408	408	unknown		unknown
+DO46576	OV-AU	PCAWG	AOCS-162	female	alive	relapse		75	75	75	81	C56	FIGO	III		133	133	unknown		unknown
+DO46571	OV-AU	PCAWG	AOCS-161	female	deceased	relapse		61	61	61	32	C48.2	FIGO	III		243	243	unknown		unknown
+DO46566	OV-AU	PCAWG	AOCS-159	female	deceased	relapse		78	78	80	70	C48.2	FIGO	III		673	673	unknown		unknown
+DO46568	OV-AU	PCAWG	AOCS-160	female	deceased	relapse		66	66	66	63	C56	FIGO	III		320	320	unknown		unknown
+DO46560	OV-AU	PCAWG	AOCS-157	female	deceased	relapse		45	45	45	90	C48.2	FIGO	IV		286	286	unknown		unknown
+DO46561	OV-AU	PCAWG	AOCS-158	female	deceased	relapse		52	53	53	13	C48.2	FIGO	III		195	195	unknown		unknown
+DO46556	OV-AU	PCAWG	AOCS-155	female	alive	relapse		69	69	77	1037	C48.2	FIGO	III		2826	2826	unknown		unknown
+DO46551	OV-AU	PCAWG	AOCS-153	female	deceased	relapse		58	58	59	18	C56	FIGO	III		1055	1055	unknown		unknown
+DO46546	OV-AU		AOCS-152	female	deceased	relapse		73	73	78	515	C56	FIGO	III		1889	1889	unknown		unknown
+DO46542	OV-AU	PCAWG	AOCS-150	female	deceased	relapse		55	57	57	287	C48.2	FIGO	III		1147	1147	unknown		unknown
+DO46538	OV-AU		AOCS-149	female	deceased	relapse		57	57	61	331	C56	FIGO	III		1527	1527	unknown		unknown
+DO46533	OV-AU		AOCS-148	female	alive	complete remission		46	46	56	3489	C56	FIGO	III		3667	3667	unknown		unknown
+DO46528	OV-AU		AOCS-147	female	alive	complete remission		56	56	73	5975	C56	FIGO	III		6139	6139	unknown		unknown
+DO46523	OV-AU		AOCS-146	female	alive	complete remission		52	52	57	1699	C56	FIGO	IV		1873	1873	unknown		unknown
+DO46518	OV-AU		AOCS-145	female	alive	relapse		62	62	70	180	C56	FIGO	III		2960	2960	unknown		unknown
+DO46513	OV-AU		AOCS-144	female	deceased	relapse		54	54	59	476	C56	FIGO	IV		1883	1883	unknown		unknown
+DO46503	OV-AU	PCAWG	AOCS-142	female	alive	relapse		71	73	73	511	C56	FIGO	III		950	950	unknown		unknown
+DO46508	OV-AU		AOCS-143	female	deceased	relapse		50	50	55	180	C48.2	FIGO	III		2101	2101	unknown		unknown
+DO46498	OV-AU	PCAWG	AOCS-141	female	alive	relapse		62	66	66	820	C56	FIGO	III		1618	1618	unknown		unknown
+DO46493	OV-AU	PCAWG	AOCS-139	female	alive	relapse		62	62	65	200	C56	FIGO	IV		839	839	unknown		unknown
+DO46488	OV-AU	PCAWG	AOCS-138	female	deceased	relapse		57	61	61	265	C56	FIGO	III		1421	1421	unknown		unknown
+DO46483	OV-AU		AOCS-137	female	alive	relapse		68	68	70	543	C56	FIGO	IV		916	916	unknown		unknown
+DO46478	OV-AU		AOCS-135	female	deceased	relapse		52	53	54	223	C56	FIGO	III		1049	1049	unknown		unknown
+DO46473	OV-AU	PCAWG	AOCS-134	female	deceased	relapse		46	50	51	659	C56	FIGO	III		1918	1918	unknown		unknown
+DO46468	OV-AU		AOCS-133	female	alive	relapse		67	67	74	475	C56	FIGO	III		2776	2776	unknown		unknown
+DO46463	OV-AU		AOCS-132	female	deceased	relapse		49	49	49	366	C56	FIGO	III		2451	2451	unknown		unknown
+DO46458	OV-AU		AOCS-131	female	alive	relapse		67	67	77	1103	C56	FIGO	IV		3787	3787	unknown		unknown
+DO46453	OV-AU		AOCS-130	female	deceased	relapse		66	66	73	2314	C56	FIGO	III		3294	3294	unknown		unknown
+DO46448	OV-AU	PCAWG	AOCS-128	female	deceased	relapse		45	45	47	82	C56	FIGO	III		654	654	unknown		unknown
+DO46443	OV-AU		AOCS-126	female	deceased	relapse		59	59	65	1374	C56	FIGO	III		2464	2464	unknown		unknown
+DO46438	OV-AU		AOCS-125	female	alive	complete remission		55	55	61	2063	C56	FIGO	IV		2227	2227	unknown		unknown
+DO46436	OV-AU		AOCS-124	female	alive	complete remission		58	58	67	3079	C56	FIGO	III		3193	3193	unknown		unknown
+DO46432	OV-AU		AOCS-123	female	alive	complete remission		56	56	62	2107	C56	FIGO	III		2218	2218	unknown		unknown
+DO46428	OV-AU		AOCS-122	female	alive	complete remission		59	59	66	2420	C56	FIGO	IV		2644	2644	unknown		unknown
+DO46424	OV-AU	PCAWG	AOCS-120	female	deceased	relapse		47	53	53	514	C48.2	FIGO	III		2341	2341	unknown		unknown
+DO46420	OV-AU	PCAWG	AOCS-119	female	deceased	relapse		65	68	68	681	C56	FIGO	III		1380	1380	unknown		unknown
+DO46416	OV-AU	PCAWG	AOCS-117	female	deceased	relapse		54	55	59	138	C56	FIGO	III		1972	1972	unknown		unknown
+DO46412	OV-AU	PCAWG	AOCS-116	female	deceased	relapse		64	64	65	56	C56	FIGO	III		597	597	unknown		unknown
+DO46408	OV-AU	PCAWG	AOCS-115	female	deceased	relapse		56	56	57	91	C56	FIGO	III		489	489	unknown		unknown
+DO46402	OV-AU	PCAWG	AOCS-113	female	deceased	relapse		77	77	78	88	C56	FIGO	III		511	511	unknown		unknown
+DO46404	OV-AU	PCAWG	AOCS-114	female	deceased	relapse		55	55	57	105	C56	FIGO	III		690	690	unknown		unknown
+DO46400	OV-AU	PCAWG	AOCS-112	female	deceased	relapse		70	70	71	173	C48.2	FIGO	III		719	719	unknown		unknown
+DO46611	OV-AU	PCAWG	AOCS-171	female	deceased	relapse		52	52	54	237	C56	FIGO	III		734	734	unknown		unknown
+DO46606	OV-AU	PCAWG	AOCS-170	female	alive	relapse		73	73	75	293	C56	FIGO	III		804	804	unknown		unknown
+DO46602	OV-AU	PCAWG	AOCS-169	female	deceased	relapse		74	74	75	21	C56	FIGO	III		205	205	unknown		unknown
+DO46376	OV-AU	PCAWG	AOCS-093	female	deceased	relapse		58	58	61	324	C56	FIGO	III		1430	1430	unknown		unknown
+DO46378	OV-AU	PCAWG	AOCS-094	female	alive	relapse		59	59	61	482	C56	FIGO	III		843	843	unknown		unknown
+DO46372	OV-AU	PCAWG	AOCS-091	female	deceased	relapse		39	39	42	548	C56	FIGO	III		1326	1326	unknown		unknown
+DO46374	OV-AU	PCAWG	AOCS-092	female	deceased	relapse		69	69	72	406	C56	FIGO	III		1409	1409	unknown		unknown
+DO46380	OV-AU	PCAWG	AOCS-095	female	deceased	relapse		51	51	54	273	C56	FIGO	III		1423	1423	unknown		unknown
+DO46368	OV-AU	PCAWG	AOCS-088	female	deceased	relapse		57	57	64	1365	C56	FIGO	III		2879	2879	unknown		unknown
+DO46364	OV-AU	PCAWG	AOCS-085	female	deceased	relapse		45	45	46	166	C56	FIGO	III		806	806	unknown		unknown
+DO46366	OV-AU	PCAWG	AOCS-086	female	deceased	relapse		65	65	70	243	C57	FIGO	III		2054	2054	unknown		unknown
+DO46360	OV-AU	PCAWG	AOCS-083	female	deceased	relapse		58	58	63	122	C56	FIGO	IV		1759	1759	unknown		unknown
+DO46362	OV-AU	PCAWG	AOCS-084	female	deceased	progression		61	61	65		C56	FIGO	III		1639	1639	unknown		unknown
+DO46370	OV-AU	PCAWG	AOCS-090	female	deceased	relapse		54	54	58	711	C56	FIGO	III		1727	1727	unknown		unknown
+DO46358	OV-AU	PCAWG	AOCS-081	female	deceased	relapse		60	60	61	98	C56	FIGO	III		423	423	unknown		unknown
+DO46354	OV-AU	PCAWG	AOCS-079	female	deceased	relapse		73	73	75	76	C56	FIGO	III		843	843	unknown		unknown
+DO46356	OV-AU	PCAWG	AOCS-080	female	deceased	relapse		68	68	70	79	C56	FIGO	III		911	911	unknown		unknown
+DO46350	OV-AU	PCAWG	AOCS-077	female	deceased	relapse		66	67	69	35	C48.2	FIGO	III		886	886	unknown		unknown
+DO46352	OV-AU	PCAWG	AOCS-078	female	deceased	relapse		60	60	61	77	C56	FIGO	III		677	677	unknown		unknown
+DO46346	OV-AU	PCAWG	AOCS-075	female	deceased	relapse		54	54	57	189	C56	FIGO	III		1187	1187	unknown		unknown
+DO46348	OV-AU	PCAWG	AOCS-076	female	deceased	relapse		58	58	59	50	C48.2	FIGO	IV		287	287	unknown		unknown
+DO46342	OV-AU	PCAWG	AOCS-064	female	deceased	relapse		67	67	71	204	C56	FIGO	III		1398	1398	unknown		unknown
+DO46344	OV-AU	PCAWG	AOCS-065	female	deceased	relapse		46	46	47	275	C48.2	FIGO	III		642	642	unknown		unknown
+DO46340	OV-AU	PCAWG	AOCS-063	female	deceased	relapse		62	62	64	91	C48.2	FIGO	III		616	616	unknown		unknown
+DO46336	OV-AU	PCAWG	AOCS-060	female	deceased	relapse		70	70	71	68	C57	FIGO	IV		664	664	unknown		unknown
+DO46338	OV-AU	PCAWG	AOCS-061	female	deceased	relapse		59	59	60	186	C56	FIGO	III		596	596	unknown		unknown
+DO46331	OV-AU	PCAWG	AOCS-056	female	deceased	relapse		72	72	74	132	C48.2	FIGO	III		612	612	unknown		unknown
+DO46332	OV-AU	PCAWG	AOCS-057	female	deceased	relapse		56	56	58	64	C56	FIGO	III		689	689	unknown		unknown
+DO46333	OV-AU	PCAWG	AOCS-058	female	deceased	relapse		58	58	59	118	C56	FIGO	III		359	359	unknown		unknown
+DO46334	OV-AU	PCAWG	AOCS-059	female	deceased	relapse		77	77	77	130	C48.2	FIGO	III		496	496	unknown		unknown
+DO46330	OV-AU	PCAWG	AOCS-055	female	deceased	relapse		60	60	61	175	C56	FIGO	III		684	684	unknown		unknown
+DO46328	OV-AU	PCAWG	AOCS-005	female	deceased	relapse		52	52	54	167	C56	FIGO	III		972	972	unknown		unknown
+DO46329	OV-AU	PCAWG	AOCS-034	female	deceased	relapse		52	52	56	381	C56	FIGO	III		1699	1699	unknown		unknown
+DO46325	OV-AU	PCAWG	AOCS-001	female	deceased	relapse		54	54	55	21	C48.2	FIGO	III		477	477	unknown		unknown
+DO46326	OV-AU		AOCS-002	female	deceased	relapse		51	51	53	124	C56	FIGO	III		701	701	unknown		unknown
+DO46327	OV-AU	PCAWG	AOCS-004	female	deceased	progression		54	54	54		C56	FIGO	III		184	184	unknown		unknown
+DO46398	OV-AU	PCAWG	AOCS-111	female	alive	relapse		66	66	67	71	C56	FIGO	III		437	437	unknown		unknown
+DO46394	OV-AU	PCAWG	AOCS-108	female	deceased	relapse		61	61	63	121	C56	FIGO	IV		1039	1039	unknown		unknown
+DO46396	OV-AU	PCAWG	AOCS-109	female	deceased	relapse		64	64	65	76	C56	FIGO	III		583	583	unknown		unknown
+DO46386	OV-AU	PCAWG	AOCS-104	female	deceased	relapse		49	49	51	116	C48.2	FIGO	III		1162	1162	unknown		unknown
+DO46388	OV-AU	PCAWG	AOCS-105	female	deceased	relapse		74	74	75	151	C56	FIGO	III		413	413	unknown		unknown
+DO46382	OV-AU	PCAWG	AOCS-096	female	deceased	relapse		62	62	62	120	C48.2	FIGO	IV		311	311	unknown		unknown
+DO46384	OV-AU	PCAWG	AOCS-097	female	deceased	relapse		55	55	56	148	C56	FIGO	III		614	614	unknown		unknown
+DO46390	OV-AU	PCAWG	AOCS-106	female	deceased	relapse		65	65	65	49	C56	FIGO	III		374	374	unknown		unknown
+DO46392	OV-AU	PCAWG	AOCS-107	female	deceased	relapse		48	48	49	164	C56	FIGO	III		628	628	unknown		unknown
